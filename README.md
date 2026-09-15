@@ -22,7 +22,7 @@ If all goes well, the proper analysis will be followed by the making of the html
 * the final data files are put in the folder ```Analysis```
 * the final report should appear as ```Nanopore_Pinfish_Analysis.html```. This report is a single html file with all in it and can be sent to customers/colleagues as a final report. It is nicer than a PDF version because of large tables and figures which would suffer from page breaks and it can be viewed on any device supporting html (incl smartphones :-).
 
-[view the report hosted here](http://htmlpreview.github.io/?https://github.com/Nucleomics-VIB/Nanopore_Pinfish_Analysis/blob/master/Nanopore_Pinfish_Analysis.html)
+[view the report hosted here](http://htmlpreview.github.io/?https://github.com/Nucleomics-VIB/nanopore-pinfish-analysis/blob/main/Nanopore_Pinfish_Analysis.html)
 
 rem: when something breaks the snake, or if you add more text/comments in the initial Rmd report, you can regenerate the report manually with ```R --slave -e 'rmarkdown::render("Nanopore_Pinfish_Analysis.Rmd", "html_document")'``` within the base project folder.
 
