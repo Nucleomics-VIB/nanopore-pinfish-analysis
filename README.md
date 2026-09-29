@@ -32,6 +32,11 @@ rem: when something breaks the snake, or if you add more text/comments in the in
 
 <hr>
 
-![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png?raw=true)
+![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+Licensed under the **Mozilla Public License 2.0** — see [`LICENSE`](LICENSE) for the full text.
+
+This work derives from Oxford Nanopore Technologies'
+[`ont_tutorial_pinfish`](https://github.com/nanoporetech/ont_tutorial_pinfish) and keeps its
+upstream MPL-2.0 terms. The additions by *VIB Nucleomics Core* are released under the same
+licence. Earlier versions of this README stated CC BY-SA 3.0 in error.
