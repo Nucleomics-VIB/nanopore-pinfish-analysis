@@ -1,7 +1,9 @@
 [(Nucleomics-VIB)](https://github.com/Nucleomics-VIB)
 
-Nanopore_Pinfish_Analysis
+nanopore-pinfish-analysis
 ==========
+
+Named `Nanopore_Pinfish_Analysis` until 2026-09-15. The report files keep that name.
 
 This Snakemake pipeline and accompanying RStudio report are largely inspired by the ```ont_tutorial_pinfish``` found at [nanoporetech](https://github.com/nanoporetech/ont_tutorial_pinfish) with addition of a few analysis steps.
 
