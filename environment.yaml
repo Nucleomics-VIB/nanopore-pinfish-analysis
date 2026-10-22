@@ -30,6 +30,9 @@ dependencies:
   - pinfish=190125=b6f3c06_3
   - mosdepth
   - zlib
+  # eMudhra CA incident (2026-10-20, #3): fixed CA bundle from conda-forge.
+  # certifi>=2026.10.19 needs python >=3.10 and openjdk has no fixed build: both BLOCKED.
+  - conda-forge::ca-certificates >=2026.10.19
   - pip
   - pip:
     - "--editable=git+https://github.com/nanoporetech/pychopper.git#egg=pychopper"
